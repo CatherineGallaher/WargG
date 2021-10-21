@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Catherine Gallaher
-- 🏫 I am a Junior at Southern New Hampshire University, studying Computer Science with a double major in Mathematics
+- 🏫 I am a Senior at Southern New Hampshire University, studying Computer Science with a double major in Mathematics
 - 💻 I have experience with Swift/SwiftUI, Java, C++, C#, C, PHP, some Python, JavaScript, HTML, CSS, Angular, and some Android Studio
 - 📫 You can reach me through mailtocatherinegallaher@gmail.com or at https://www.linkedin.com/in/catherinegallaher/
